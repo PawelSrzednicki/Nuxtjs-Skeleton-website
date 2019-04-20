@@ -28,6 +28,6 @@ http://localhost:3000
 ```
 ## Custom Api
 
-[I'm an inline-style link](https://www.google.com)
+[Custom Api](https://github.com/PawelSrzednicki/Laravel-ApiExample)
 
 
