@@ -1,22 +1,28 @@
-# blog
+<p align="center"><img src="https://www.headwire.com/img/nuxt.svg"></p>
 
-> My best Nuxt.js project
+## Nuxt example webiste
+> example website with nuxt, axios and vuetify 
 
-## Build Setup
+## Todo
+* Admin panel
 
-``` bash
-# install dependencies
-$ npm install
+## Download
+```
+# clone
+git clone https://github.com/PawelSrzednicki/Nuxtjs-Skeleton-website.git
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
+# Access project
+cd Nuxtjs-Skeleton-website
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Installation
+```
+# install 
+npm install
+
+# run dev server
+npm run dev
+
+# Access project
+http://localhost:300
+```
