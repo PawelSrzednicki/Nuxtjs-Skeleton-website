@@ -28,7 +28,7 @@ http://localhost:3000
 ```
 ## Custom Api
 ```
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[link text itself]: http://www.reddit.com
 ```
 
 
