@@ -24,5 +24,5 @@ npm install
 npm run dev
 
 # Access project
-http://localhost:300
+http://localhost:3000
 ```
